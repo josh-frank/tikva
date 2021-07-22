@@ -2,5 +2,10 @@
   "name": "tikva",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
 }
